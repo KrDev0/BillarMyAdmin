@@ -1,0 +1,5 @@
+val: 0
+string: ""
+
+url: "https://raw.githubusercontent.com/KrDev0/BillarMyAdmin/refs/heads/main/globalMessage"
+
